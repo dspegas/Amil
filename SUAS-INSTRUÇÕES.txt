@@ -1,0 +1,2 @@
+
+Os bonus não foram feitos pois não acrescentavam muito em relação ao projeto e sim somente lógica semelhante a já criada para resolver os items solicitados.
